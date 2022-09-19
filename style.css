@@ -1,34 +1,35 @@
 /* Smartphone Portrait */
-body{
-    background-color: #00e1ff;
+
+body {
+    /*background-color: #00ffff;*/
 }
 
-/* Smartphone Landscape */
-@media (min-width: 576px){ /*a partir de 576px ele quebra (breakpoint) a página*/
-    body{
-        background-color: #ffbb00;
-    }
+/* Smartphone Landscape */ 
+@media (min-width: 576px) {
+    /*body {
+        background-color: #ffff00;
+    }*/
 }
 
-/* Ipad Portrait */
-@media (min-width: 768px){ /*a partir de 768px ele quebra (breakpoint) a página*/
-    body{
+/* Tablet Portrait */ 
+@media (min-width: 768px) {
+    /*body {
         background-color: #ff00c8;
-        color: #ffff
-    }
+        color: #ffffff;
+    }*/
 }
 
-/* Ipad Landscape */
-@media (min-width: 992px){ /*a partir de 992px ele quebra (breakpoint) a página*/
-    body{
-        background-color: #7700ff;
-    }
+/* Tablet Landscape */ 
+@media (min-width: 992px) {
+    /*body {
+        background-color: #484955;        
+    }*/
 }
 
-/* Notebooks/PCs/SmartTV */
-@media (min-width: 1200px){ /*maior de 1200px ele quebra (breakpoint) a página*/
-    body{
-        background-color: #00ff88;
-        color: #000;
-    }
+/* Notebooks/PCs/SmartTV */ 
+@media (min-width: 1200px) {
+    /*body {
+        background-color: #ffffff; 
+        color: #000000;       
+    }*/
 }
