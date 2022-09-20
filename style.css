@@ -1,35 +1,79 @@
+/**
+* Folha de estilo customizada ...
+* @author Seu nome
+*/
+
+/* Layout */
+.flexFooter {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
 /* Smartphone Portrait */
 
+/*
 body {
-    /*background-color: #00ffff;*/
+    background-color: #00ffff;
+}
+*/
+
+/* Rodapé */
+footer {
+  padding: 50px 0px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
 }
 
-/* Smartphone Landscape */ 
+#social {
+  margin-bottom: 25px;
+}
+
+/* Smartphone Landscape */
 @media (min-width: 576px) {
-    /*body {
+  /*
+    body {
         background-color: #ffff00;
-    }*/
+    }
+    */
+
+  /* Rodapé */
+  .flexFooter {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #social {
+    margin-bottom: 0;
+  }
 }
 
-/* Tablet Portrait */ 
+/* Tablet Portrait */
 @media (min-width: 768px) {
-    /*body {
+  /*
+    body {
         background-color: #ff00c8;
         color: #ffffff;
-    }*/
+    }
+    */
 }
 
-/* Tablet Landscape */ 
+/* Tablet Landscape */
 @media (min-width: 992px) {
-    /*body {
+  /*
+    body {
         background-color: #484955;        
-    }*/
+    }
+    */
 }
 
-/* Notebooks/PCs/SmartTV */ 
+/* Notebooks/PCs/SmartTV */
 @media (min-width: 1200px) {
-    /*body {
-        background-color: #ffffff; 
-        color: #000000;       
-    }*/
+  /*
+    body {
+        background-color: #fff; 
+        color: #000;       
+    }
+    */
 }
