@@ -1,7 +1,7 @@
 /**
-* Folha de estilo customizada ...
-* @author Seu nome
-*/
+ * Folha de estilo customizada do site...
+ * @author Seu Nome
+ */
 
 /* Layout */
 .flexFooter {
@@ -20,7 +20,7 @@ body {
 /* Rodapé */
 footer {
   padding: 50px 0px;
-  background-color: black;
+  background-color: #343538;
   color: #fff;
   text-align: center;
 }
@@ -45,7 +45,7 @@ footer {
   }
 
   #social {
-    margin-bottom: 0;
+    margin: 0;
   }
 }
 
