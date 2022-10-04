@@ -1,4 +1,4 @@
-!(https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fcarolinapacifico.github.io%2FTeste_Orientacao%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fcarolinapacifico.github.io%2FTeste_Orientacao%2F)
 # 2EMIA
 Descrição 
 ## Autor
