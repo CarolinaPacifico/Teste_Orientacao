@@ -4,4 +4,4 @@ Repositório de aula.
 ## Autores
 Carolina Pacífico
 ## Captura de Tela
-!["alt" - descrição da imagem]()
+!["alt" - descrição da imagem](https://github.com/CarolinaPacifico/Teste_Orientacao/blob/main/img/Capture.PNG)
