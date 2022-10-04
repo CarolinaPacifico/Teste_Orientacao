@@ -2,5 +2,6 @@
 Descrição 
 ## Autor
 Carolina Pacífico
-##Captura de tela
+
+Captura de tela
 !["alt" - descrição da imagem]()
